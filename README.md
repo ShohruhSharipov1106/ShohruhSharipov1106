@@ -23,20 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://medium.com/feed/@sharipovshohruh"
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohruhSharipov1106&theme=dark&show_icons=true)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
