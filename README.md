@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohruhSharipov1106&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohruhSharipov1106&theme=buefy&show_icons=true)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
