@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharipov Shohruh</h1>
 <h3 align="center">A passionate android and iOs developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohruhsharipov1106&label=Profile%20views&color=0e75b6&style=flat" alt="shohruhsharipov1106" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shohruhsharipov1106&label=Profile%20views&color=brightgreen&style=flat" alt="shohruhsharipov1106" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohruhsharipov1106" alt="shohruhsharipov1106" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohruhsharipov1106&theme=buddhism" alt="shohruhsharipov1106" /></a> </p>
 
 - 🔭 I’m currently working on [CRM Merchant App](https://github.com/ShohruhSharipov1106/CRM-Merchant-App)
 
@@ -40,4 +40,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shohruhsharipov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shohruhsharipov" /></a><a href="https://ko-fi.com/https://ko-fi.com/shohruhsharipov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/shohruhsharipov" /></a></p>
 
-![ShohruhSharipov1106's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohruhSharipov1106&theme=radical&show_icons=true)
+![ShohruhSharipov1106's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohruhSharipov1106&theme=chartreuse-dark&show_icons=true)
