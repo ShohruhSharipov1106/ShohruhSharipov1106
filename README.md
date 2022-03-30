@@ -42,4 +42,3 @@
 
 ![ShohruhSharipov1106's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohruhSharipov1106&theme=chartreuse-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohruhSharipov1106&layout=compact)](https://github.com/ShohruhSharipov1106/github-readme-stats)
-[![ShohruhSharipov1106's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShohruhSharipov1106)](https://github.com/ShohruhSharipov1106/github-readme-stats)
