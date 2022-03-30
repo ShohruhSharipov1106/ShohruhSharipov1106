@@ -41,3 +41,4 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shohruhsharipov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shohruhsharipov" /></a><a href="https://ko-fi.com/https://ko-fi.com/shohruhsharipov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/shohruhsharipov" /></a></p>
 
 ![ShohruhSharipov1106's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohruhSharipov1106&theme=chartreuse-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohruhSharipov1106)](https://github.com/ShohruhSharipov1106/github-readme-stats)
