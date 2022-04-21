@@ -44,4 +44,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shohruhsharipov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shohruhsharipov" /></a><a href="https://ko-fi.com/https://ko-fi.com/shohruhsharipov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/shohruhsharipov" /></a></p>
 
-[![ShohruhSharipov1106's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shohruhsharipov1106&show_icons=true&theme=merko))
+[![ShohruhSharipov1106's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shohruhsharipov1106&show_icons=true&theme=merko)
