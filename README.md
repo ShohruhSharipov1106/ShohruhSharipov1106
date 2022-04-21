@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohruhsharipov1106&label=Profile%20views&color=brightgreen&style=flat" alt="shohruhsharipov1106" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohruhsharipov1106&theme=buddhism" alt="shohruhsharipov1106" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shohruhsharipov1106&margin-w=30)](https://github.com/shohruhsharipov1106/github-profile-trophy)
 
 - 🔭 I’m currently working on [CRM Merchant App](https://github.com/ShohruhSharipov1106/CRM-Merchant-App)
 
