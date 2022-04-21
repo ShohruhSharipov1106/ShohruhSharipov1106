@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohruhsharipov1106&label=Profile%20views&color=brightgreen&style=flat" alt="shohruhsharipov1106" /> </p>
 
+[![Sharipov Shohruh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shohruhtohirovich)](https://github.com/shohruhsharipov1106/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shohruhsharipov1106&margin-w=30&theme=matrix)](https://github.com/shohruhsharipov1106/github-profile-trophy)
 
 - 🔭 I’m currently working on [CRM Merchant App](https://github.com/ShohruhSharipov1106/CRM-Merchant-App)
