@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharipov Shohruh</h1>
-<h3 align="center">A passionate android and iOs developer from Uzbekistan</h3>
+<h3 align="center">A motivateed Flutter Developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohruhsharipov1106&label=Profile%20views&color=brightgreen&style=flat" alt="shohruhsharipov1106" /> </p>
 
