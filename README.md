@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sharipovshohruh1106](https://medium.com/@sharipovshohruh1106)
 
-- 💬 Ask me about **Flutter, Dart, Firebase, Provider, Animation**
+- 💬 Ask me about **Flutter, Dart, Provider, Animation**
 
 - 📫 How to reach me **sharipovshohruh1106@gmail.com**
 
