@@ -9,15 +9,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shohruhsharipov1106&margin-w=30&theme=matrix)](https://github.com/shohruhsharipov1106/github-profile-trophy)
 
-- 🔭 I’m currently working on [CRM Merchant App](https://github.com/ShohruhSharipov1106/CRM-Merchant-App)
-
-- 🌱 I’m currently learning **Flutter, RestApi, NodeJs, Dart**
+- 🌱 I’m currently learning **BloC, Firebase, Clean Architecture & TDD **
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharipovshohruh](https://github.com/sharipovshohruh)
 
 - 📝 I regularly write articles on [https://medium.com/@sharipovshohruh1106](https://medium.com/@sharipovshohruh1106)
 
-- 💬 Ask me about **Flutter, Dart, Provider, Animation**
+- 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **sharipovshohruh1106@gmail.com**
 
